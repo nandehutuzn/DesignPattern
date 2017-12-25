@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 /// <summary>
-/// 观察者模式  by  zhangning  20171225
+/// 观察者模式  
 /// 定义了对象之间一对多依赖，这样一来，当一个对象改变状态时，它的所有依赖者都会收到通知并自动更新
 /// </summary>
 namespace ObserverPattern
