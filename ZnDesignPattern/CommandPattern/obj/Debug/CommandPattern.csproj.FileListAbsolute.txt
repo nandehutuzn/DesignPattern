@@ -1,0 +1,6 @@
+E:\VS2013\Github\DesignPattern\ZnDesignPattern\CommandPattern\bin\Debug\CommandPattern.exe.config
+E:\VS2013\Github\DesignPattern\ZnDesignPattern\CommandPattern\bin\Debug\CommandPattern.exe
+E:\VS2013\Github\DesignPattern\ZnDesignPattern\CommandPattern\bin\Debug\CommandPattern.pdb
+E:\VS2013\Github\DesignPattern\ZnDesignPattern\CommandPattern\obj\Debug\CommandPattern.csprojResolveAssemblyReference.cache
+E:\VS2013\Github\DesignPattern\ZnDesignPattern\CommandPattern\obj\Debug\CommandPattern.exe
+E:\VS2013\Github\DesignPattern\ZnDesignPattern\CommandPattern\obj\Debug\CommandPattern.pdb
