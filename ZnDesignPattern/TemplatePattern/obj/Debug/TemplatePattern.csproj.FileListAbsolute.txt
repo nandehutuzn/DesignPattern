@@ -1,0 +1,5 @@
+E:\VS2013\Github\DesignPattern\ZnDesignPattern\TemplatePattern\bin\Debug\TemplatePattern.exe.config
+E:\VS2013\Github\DesignPattern\ZnDesignPattern\TemplatePattern\bin\Debug\TemplatePattern.exe
+E:\VS2013\Github\DesignPattern\ZnDesignPattern\TemplatePattern\bin\Debug\TemplatePattern.pdb
+E:\VS2013\Github\DesignPattern\ZnDesignPattern\TemplatePattern\obj\Debug\TemplatePattern.exe
+E:\VS2013\Github\DesignPattern\ZnDesignPattern\TemplatePattern\obj\Debug\TemplatePattern.pdb

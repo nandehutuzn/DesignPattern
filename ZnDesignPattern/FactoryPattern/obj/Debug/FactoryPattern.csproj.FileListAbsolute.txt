@@ -1,6 +1,5 @@
 E:\VS2013\Github\DesignPattern\ZnDesignPattern\FactoryPattern\bin\Debug\FactoryPattern.exe.config
 E:\VS2013\Github\DesignPattern\ZnDesignPattern\FactoryPattern\bin\Debug\FactoryPattern.exe
 E:\VS2013\Github\DesignPattern\ZnDesignPattern\FactoryPattern\bin\Debug\FactoryPattern.pdb
-E:\VS2013\Github\DesignPattern\ZnDesignPattern\FactoryPattern\obj\Debug\FactoryPattern.csprojResolveAssemblyReference.cache
 E:\VS2013\Github\DesignPattern\ZnDesignPattern\FactoryPattern\obj\Debug\FactoryPattern.exe
 E:\VS2013\Github\DesignPattern\ZnDesignPattern\FactoryPattern\obj\Debug\FactoryPattern.pdb

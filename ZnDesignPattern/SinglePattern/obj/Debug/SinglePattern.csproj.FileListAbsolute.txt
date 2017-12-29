@@ -1,6 +1,5 @@
 E:\VS2013\Github\DesignPattern\ZnDesignPattern\SinglePattern\bin\Debug\SinglePattern.exe.config
 E:\VS2013\Github\DesignPattern\ZnDesignPattern\SinglePattern\bin\Debug\SinglePattern.exe
 E:\VS2013\Github\DesignPattern\ZnDesignPattern\SinglePattern\bin\Debug\SinglePattern.pdb
-E:\VS2013\Github\DesignPattern\ZnDesignPattern\SinglePattern\obj\Debug\SinglePattern.csprojResolveAssemblyReference.cache
 E:\VS2013\Github\DesignPattern\ZnDesignPattern\SinglePattern\obj\Debug\SinglePattern.exe
 E:\VS2013\Github\DesignPattern\ZnDesignPattern\SinglePattern\obj\Debug\SinglePattern.pdb

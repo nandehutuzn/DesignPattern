@@ -1,6 +1,5 @@
 E:\VS2013\Github\DesignPattern\ZnDesignPattern\DecoratePattern\bin\Debug\DecoratePattern.exe.config
 E:\VS2013\Github\DesignPattern\ZnDesignPattern\DecoratePattern\bin\Debug\DecoratePattern.exe
 E:\VS2013\Github\DesignPattern\ZnDesignPattern\DecoratePattern\bin\Debug\DecoratePattern.pdb
-E:\VS2013\Github\DesignPattern\ZnDesignPattern\DecoratePattern\obj\Debug\DecoratePattern.csprojResolveAssemblyReference.cache
 E:\VS2013\Github\DesignPattern\ZnDesignPattern\DecoratePattern\obj\Debug\DecoratePattern.exe
 E:\VS2013\Github\DesignPattern\ZnDesignPattern\DecoratePattern\obj\Debug\DecoratePattern.pdb

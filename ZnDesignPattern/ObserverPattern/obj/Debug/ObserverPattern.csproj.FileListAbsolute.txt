@@ -1,6 +1,5 @@
 E:\VS2013\Github\DesignPattern\ZnDesignPattern\ObserverPattern\bin\Debug\ObserverPattern.exe.config
 E:\VS2013\Github\DesignPattern\ZnDesignPattern\ObserverPattern\bin\Debug\ObserverPattern.exe
 E:\VS2013\Github\DesignPattern\ZnDesignPattern\ObserverPattern\bin\Debug\ObserverPattern.pdb
-E:\VS2013\Github\DesignPattern\ZnDesignPattern\ObserverPattern\obj\Debug\ObserverPattern.csprojResolveAssemblyReference.cache
 E:\VS2013\Github\DesignPattern\ZnDesignPattern\ObserverPattern\obj\Debug\ObserverPattern.exe
 E:\VS2013\Github\DesignPattern\ZnDesignPattern\ObserverPattern\obj\Debug\ObserverPattern.pdb

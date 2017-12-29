@@ -1,0 +1,5 @@
+E:\VS2013\Github\DesignPattern\ZnDesignPattern\StatePattern\bin\Debug\StatePattern.exe.config
+E:\VS2013\Github\DesignPattern\ZnDesignPattern\StatePattern\bin\Debug\StatePattern.exe
+E:\VS2013\Github\DesignPattern\ZnDesignPattern\StatePattern\bin\Debug\StatePattern.pdb
+E:\VS2013\Github\DesignPattern\ZnDesignPattern\StatePattern\obj\Debug\StatePattern.exe
+E:\VS2013\Github\DesignPattern\ZnDesignPattern\StatePattern\obj\Debug\StatePattern.pdb
