@@ -1,0 +1,5 @@
+E:\VS2013\Github\DesignPattern\ZnDesignPattern\MVCPattern\bin\Debug\MVCPattern.exe.config
+E:\VS2013\Github\DesignPattern\ZnDesignPattern\MVCPattern\bin\Debug\MVCPattern.exe
+E:\VS2013\Github\DesignPattern\ZnDesignPattern\MVCPattern\bin\Debug\MVCPattern.pdb
+E:\VS2013\Github\DesignPattern\ZnDesignPattern\MVCPattern\obj\Debug\MVCPattern.exe
+E:\VS2013\Github\DesignPattern\ZnDesignPattern\MVCPattern\obj\Debug\MVCPattern.pdb

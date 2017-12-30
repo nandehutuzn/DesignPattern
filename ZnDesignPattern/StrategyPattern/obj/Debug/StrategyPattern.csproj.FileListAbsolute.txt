@@ -1,6 +1,5 @@
 E:\VS2013\Github\DesignPattern\ZnDesignPattern\StrategyPattern\bin\Debug\StrategyPattern.exe.config
 E:\VS2013\Github\DesignPattern\ZnDesignPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
 E:\VS2013\Github\DesignPattern\ZnDesignPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
-E:\VS2013\Github\DesignPattern\ZnDesignPattern\StrategyPattern\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
 E:\VS2013\Github\DesignPattern\ZnDesignPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
 E:\VS2013\Github\DesignPattern\ZnDesignPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb
